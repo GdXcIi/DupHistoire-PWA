@@ -1,10 +1,10 @@
 {
-    "name": "DupHistoire",
+    "name": "DupHistoire - PWA",
     "short_name": "DupHistoire",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#000000",
+    "theme_color": "#f1c232",
     "icons": [
         {
             "src": "/icons/icon-192x192.png",
